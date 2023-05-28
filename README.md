@@ -46,6 +46,7 @@ Not: Bu kodda veri girişi yapılmaktadır. Nokta sayısı ve koordinatlar kulla
 7: İkinci nokta, Kume 1'in etki alanına girmediği için ayrı bir küme olarak kabul edilir ve Kume 2'nin merkezi olarak belirlenir: (2.0, 4.0).
 8: Bu örnekte iki nokta farklı kümelerde yer aldığı için iki farklı merkez değeri elde edilir: Kume 1 Merkezi (1.5, 3.5) ve Kume 2 Merkezi (2.0, 4.0).
 
-Kaynakça: https://burakbayramli.github.io/dersblog/algs/algs_090_meanshift/ortalama_kaydirma_ile_kumeleme__mean_shift_clustering_.html
+Kaynakça: 
+          https://burakbayramli.github.io/dersblog/algs/algs_090_meanshift/ortalama_kaydirma_ile_kumeleme__mean_shift_clustering_.html
 
           https://www.geeksforgeeks.org/ml-mean-shift-clustering/
